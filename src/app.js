@@ -22,3 +22,9 @@ app.listen(port,()=>{
 
 //API documentation
 //URL : https://documenter.getpostman.com/view/17571132/UUy1gT6P
+
+//Business Logic
+//Business logic can reside as a sepearte module in src/controller if need
+//similar to like we setup route individually in different module.
+
+//Handling multiple request can be done by load balancing using AWS.
